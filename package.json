@@ -1,0 +1,24 @@
+{
+  "name": "npm-adr-tools",
+  "version": "0.1.0",
+  "description": "An adr-tools implementation in npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kunimitaiyoh@github.com/kunimitaiyoh/npm-adr-tools.git"
+  },
+  "keywords": [
+    "adr-tools",
+    "adr",
+    "ladr"
+  ],
+  "author": "KUNIMI Taiyoh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kunimitaiyoh/npm-adr-tools/issues"
+  },
+  "homepage": "https://github.com/kunimitaiyoh/npm-adr-tools#readme"
+}
