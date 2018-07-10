@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kunimitaiyoh/npm-adr-tools/issues"
   },
-  "homepage": "https://github.com/kunimitaiyoh/npm-adr-tools#readme"
+  "homepage": "https://github.com/kunimitaiyoh/npm-adr-tools#readme",
+  "dependencies": {
+    "commander": "^2.16.0"
+  }
 }
